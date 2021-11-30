@@ -3,7 +3,7 @@
 		var rettVal = confirm("Voulez vous supprimer cet article?");
 		if (rettVal == true) {
 			var va=va1;
-			document.location.href="http://localhost/Projet/Modele/supprimer.php?id="+va;
+			document.location.href="http://localhost/appWeb/Modele/supprimer.php?id="+va;
 			return true;
 		}
 		else{
@@ -15,7 +15,7 @@
 		var rettVal = confirm("Voulez vous modifier cet article?");
 		if (rettVal == true) {
 			var va=va1;
-			document.location.href="http://localhost/Projet/Modele/modifier.php?idd="+va;
+			document.location.href="http://localhost/appWeb/Modele/modifier.php?idd="+va;
 			return true;
 		}
 		else{
