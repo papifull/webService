@@ -3,7 +3,7 @@
 		var rettVal = confirm("Voulez vous supprimer cet utilisateur?");
 		if (rettVal == true) {
 			var va=va1;
-			document.location.href="http://localhost/Projet/Modele/suppression.php?id="+va;
+			document.location.href="http://localhost/appWeb/Modele/suppression.php?id="+va;
 			return true;
 		}
 		else{
@@ -15,7 +15,7 @@
 		var rettVal = confirm("Voulez vous modifier cet utilisateur?");
 		if (rettVal == true) {
 			var va=va1;
-			document.location.href="http://localhost/Projet/Modele/modification.php?idd="+va;
+			document.location.href="http://localhost/appWeb/Modele/modification.php?idd="+va;
 			return true;
 		}
 		else{
