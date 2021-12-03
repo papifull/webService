@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="soap">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/soap/jaxws-api-2.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/soap/javax.jws-3.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/soap/mongo-java-driver-2.7.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/soap/mongo-java-driver-3.12.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/soap/bson-3.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/soap/javax.xml.bind.jar!/" />
+      <root url="jar://$PROJECT_DIR$/soap/jaxb-api-2.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/soap/mongodb-driver-3.4.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
